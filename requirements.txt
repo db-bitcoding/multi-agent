@@ -1,0 +1,6 @@
+ipython
+langgraph
+langsmith
+langchain-ollama
+wikipedia
+duckduckgo-search
